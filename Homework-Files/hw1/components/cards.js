@@ -8,6 +8,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     flexDirection: 'row',
+    borderRadius: 25,
   },
   textStyle: {
     width: 250,
