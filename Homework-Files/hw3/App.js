@@ -73,7 +73,7 @@ function App() {
                   style={{
                     width: size * 2,
                     height: size * 2,
-                    marginBottom: 50,
+                    marginBottom: 30,
                   }}
                 />
               );
